@@ -1,3 +1,24 @@
+/* -
+-*-~*~-*-*-~*~-*-*-~*~* |
+●▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬●
+Made by ~
+AndyMagwayer 
+앤디 마그웨이어
+●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
+──────▄▀▄─────▄▀▄
+─────▄█░░▀▀▀▀▀░░█▄
+─▄▄──█░░░░░░░░░░░█──▄▄
+█▄▄█─█░░▀░░┬░░▀░░█─█▄▄█
+-*-~*~-*-*-~*~-*-*-~*~* |
+- */
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 
 img {
     --f: .1; /* the parallax factor (the smaller the better) */
@@ -25,5 +46,7 @@ img {
     place-content: center;
     grid-auto-flow: column;
     gap: 30px;
-    background: #C44D58;
+    background: #53c3f7;
   }
+  
+
